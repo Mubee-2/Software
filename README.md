@@ -8,7 +8,7 @@ Processing: Based on the value input by the patient, the program outputs specifi
 Blood sugar level measured two hours after eating and Blood sugar level measured while fasting.
 Output: If the patients’ blood sugar level falls within the normal range, the program notifies the patient.
 
-If the patients’ blood sugar level is too high in any of the above cases ( with respect to their given values), the program advises the patient to immediately take his/her medication( self-injection of insulin or noninsulin medication).
+If the patients’ blood sugar level is too high in any of the above cases ( with respect to their given values), the program advises the patient to immediately take his/her medication( self-injection of insulin or non-insulin medication).
 
 If the patients’ blood sugar level falls within the critical zone( too low or too high), the app goes ahead to notify the patient and ask if he/she would like to link up with a doctor or healthcare provider right away via videoconferencing. This is where the role of 5g comes in. It could therefore be said that 5g would facilitate and speed up the connection of diabetes patients with their healthcare providers in extreme and/or emergency situations.
 
